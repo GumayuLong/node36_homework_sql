@@ -171,7 +171,7 @@ INSERT INTO food (food_name, image, price, description, type_id) VALUES
   ('Pad Thai Noodles', 'padthai.jpg', 9.99, 'Stir-fried Thai noodles with peanuts and lime.', 5),
   ('Bacon Cheeseburger', 'burger.jpg', 7.99, 'A classic American burger with bacon and cheese.', 6),
   ('Falafel Wrap', 'falafel.jpg', 6.99, 'Mediterranean-style wrap with falafel and veggies.', 7),
-  ('General Tso Chicken', 'generaltso.jpg', 11.99, 'Sweet and spicy Chinese chicken dish.', 😎,
+  ('General Tso Chicken', 'generaltso.jpg', 11.99, 'Sweet and spicy Chinese chicken dish.', 8),
   ('Vegetable Curry', 'curry.jpg', 10.99, 'A flavorful vegetarian curry with assorted veggies.', 9),
   ('Seafood Paella', 'paella.jpg', 16.99, 'A Spanish dish with rice, saffron, and assorted seafood.', 10);
 
